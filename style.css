@@ -1,0 +1,17 @@
+table, th, td {
+    border:1px solid black;
+    width: auto;
+    height: 30px;
+}
+.angka1{
+    background-color: black;
+    color: white;
+}
+.angka2{
+    background-color: green;
+    color: white;
+}
+.angka3{
+    background-color: red;
+    color: white;
+}
